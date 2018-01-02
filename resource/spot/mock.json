@@ -1,8 +1,16 @@
 {
   "status" : "ok",
-  "spots" : [
-    {
-      "type":"cafe",
-    }
-  ]
+  "data" : {
+    "id" : "be57b650-67eb-44b6-a2db-2214794ea112",
+    "name" : "I love coffee на Литейном",
+    "company" : "I love coffee",
+    "company_id" : "77465ba8-4e7d-4fab-af88-6c75d0534c93",
+    "type" : "pick-up",
+    "category" : "Кофейня",
+    "address" : "Литейный просп., 5/19",
+    "lat" : "59.946547",
+    "lon" : "30.348495",
+    "phone" : "79219616039",
+    "rating" : 4.8
+  }
 }
