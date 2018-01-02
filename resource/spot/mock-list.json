@@ -1,0 +1,44 @@
+{
+  "status" : "ok",
+  "data" : [
+    {
+      "id" : "be57b650-67eb-44b6-a2db-2214794ea112",
+      "name" : "I love coffee на Литейном",
+      "company" : "I love coffee",
+      "company_id" : "77465ba8-4e7d-4fab-af88-6c75d0534c93",
+      "type" : "pick-up",
+      "category" : "Кофейня",
+      "address" : "Литейный просп., 5/19",
+      "lat" : "59.946547",
+      "lon" : "30.348495",
+      "phone" : "79219616039",
+      "rating" : 4.8
+    },
+    {
+      "id" : "d13e597c-7ac3-4e8d-a324-1bb8e143259d",
+      "name" : "Кофе с собой на Литейном",
+      "company" : "Кофе с собой",
+      "company_id" : "c3587e42-cadd-4159-95ea-c686807681e3",
+      "type" : "pick-up",
+      "category" : "Кофейня,магазин чая и кофе",
+      "address" : "Литейный просп., 21",
+      "lat" : "59.943214",
+      "lon" : "30.348361",
+      "phone" : "79216558242",
+      "rating" : 4
+    },
+    {
+      "id" : "56ab18bb-55a5-49de-b75f-adcde55ba00a",
+      "name" : "Шоколадница на Литейном",
+      "company" : "Шоколадница",
+      "company_id" : "77465ba8-4e7d-4fab-af88-6c75d0534c93",
+      "type" : "cafe",
+      "category" : "Кофейня",
+      "address" : "Литейный просп., 5/19",
+      "lat" : "59.942793",
+      "lon" : "30.348413",
+      "phone" : "78126771302",
+      "rating" : 3.1
+    }
+  ]
+}
