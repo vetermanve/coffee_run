@@ -1,0 +1,19 @@
+{
+  "items" : [
+    {
+      "id" : "1c374145-533d-4429-8be2-55a1939a8eec | product_id",
+      "count" : 1
+    },
+    {
+      "id" : "1c374145-533d-4429-8be2-55a1939a8eea | product_id",
+      "count" : 2,
+      "comment" : "Напишите на стакане Для влюбленных"
+    },
+    {
+      "id" : "1c374145-533d-4429-8be2-55a1939a8eea | product_id",
+      "count" : 1,
+      "comment" : "Без сахара"
+    }
+  ],
+  "comment" : " ^-^ "
+}
